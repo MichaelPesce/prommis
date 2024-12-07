@@ -109,4 +109,4 @@ extend-ignore-re = [
 ]
 
 [project.entry-points."prommis.flowsheets"]
-nf = "prommis.uky.nf_dspmde.uky_flowsheet_ui"
+nf = "prommis.uky.uky_flowsheet_ui"
